@@ -1,6 +1,6 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
-### Name : Pradeepraj P                                                                            
-### Reg NO : 212222240073
+### Name : Safeeq Fazil A                                                                            
+### Reg NO : 212222240086
 ### AIM: 
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
 ### Algorithm:
