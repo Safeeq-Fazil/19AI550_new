@@ -1,6 +1,6 @@
 # Ex.No: 2  Welcome Script in Unity
-### Name : Pradeepraj P                                                                          
-### Reg No : 212222240073
+### Name : Safeeq Fazil A                                                                          
+### Reg No : 212222240086
 ### AIM: 
  To learn the basic scripting in Unity and print welcome message in Console window. 
 ### Procedure:
