@@ -1,6 +1,6 @@
 # Ex.No: 1  Installation of Unity for Game Development
-### Name : Pradeepraj P                                 
-### Reg No : 212222240073
+### Name : Safeeq Fazil A                                
+### Reg No : 212222240086
 ## AIM: 
 To install Unity2022.3.57f1 or higher version for Game Development.
 ## Procedure:
